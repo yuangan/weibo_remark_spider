@@ -10,7 +10,7 @@ Language: Python2
 
 需更改cookie和目标微博地址，只支持m.weibo.com
 
-You need to change the cookie and the aim websit of weibo. Only support website started with m.weibo.com, which means you'd need open with your phone.
+You need to change the cookie and the aim websit of weibo. Only support website started with m.weibo.com, which means you need to open it with your phone.
 
 # How to use it
 
